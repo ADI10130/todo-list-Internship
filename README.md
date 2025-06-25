@@ -15,9 +15,9 @@ A simple console-based To-Do app built in Python.
 4. Navigate to the folder containing `todo.py`.
 5. Run the script using:
 
-## 👨‍💻 Author
+##  Author
 
-Adi - Python Developer Intern 🚀
+Adi - Python Developer Intern 
 
 ## 🔗 Repository Link
 
