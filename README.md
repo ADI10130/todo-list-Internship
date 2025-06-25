@@ -17,7 +17,7 @@ A simple console-based To-Do app built in Python.
 
 ##  Author
 
-Adi - Python Developer Intern 
+Aditya - Python Developer Intern 
 
 ##  Repository Link
 
