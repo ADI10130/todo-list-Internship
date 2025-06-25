@@ -15,12 +15,10 @@ A simple console-based To-Do app built in Python.
 4. Navigate to the folder containing `todo.py`.
 5. Run the script using:
 
-## Author
+## 👨‍💻 Author
 
-Aditya
-Python Developer Intern 
+Adi - Python Developer Intern 🚀
 
-##🔗 Repository Link
+## 🔗 Repository Link
 
-
-[GitHub Repo][https://github.com/ADI10130/todo-list-Internship]
+[GitHub Repo](https://github.com/ADI10130/CLI-Calculator)
