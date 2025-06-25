@@ -21,4 +21,4 @@ Adi - Python Developer Intern 🚀
 
 ## 🔗 Repository Link
 
-[GitHub Repo](https://github.com/ADI10130/CLI-Calculator)
+[GitHub Repo][https://github.com/ADI10130/todo-list-Internship]
