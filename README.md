@@ -19,6 +19,6 @@ A simple console-based To-Do app built in Python.
 
 Adi - Python Developer Intern 
 
-## 🔗 Repository Link
+##  Repository Link
 
 [GitHub Repo][https://github.com/ADI10130/todo-list-Internship]
